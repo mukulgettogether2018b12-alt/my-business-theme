@@ -1,17 +1,11 @@
-my-business-theme/
-├── style.css
-├── functions.php
-├── index.php
-├── header.php
-├── footer.php
-├── page-dashboard.php
-├── page-shop.php
-├── page-packages.php
-├── page-profile.php
-├── css/
-│   └── custom.css
-├── js/
-│   └── custom.js
-└── assets/
-    ├── images/
-    └── icons/
+css
+/*
+Theme Name: My Business Theme
+Theme URI: https://example.com
+Author: Your Name
+Author URI: https://example.com
+Description: Business website theme with shop, dashboard, profile, etc.
+Version: 1.0
+License: GNU GPL v2 or later
+Text Domain: my-business-theme
+*/
